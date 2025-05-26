@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! My name is AJ Young, and I'm currently a rising senior at the University of Massachusetts Amherst pursuing a dual degree in Computer Science and Mathematics with a concentration in<br>Mathematical Computing. Welcome to my GitHub page!
+Hi there! My name is AJ Young, and I'm currently a rising senior at the University of Massachusetts Amherst pursuing a dual degree in Computer Science and Mathematics with a concentration in Mathematical Computing. Welcome to my GitHub page!
 
 
 ## 🌐 Socials:
